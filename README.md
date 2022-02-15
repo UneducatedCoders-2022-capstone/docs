@@ -2,25 +2,32 @@
 
 2022 Hanbat National Univ Capstone, Computer Engineering Students
 
-## Team
-
-- 팀장 :
-  - 20171588 엄진식
-- 팀원 :
-  - 20171618 유성현
-  - 20182134 조영록
-- 지도교수님 : 진영택 교수님
+team members : MyungAe(leader), 0-ROK, Sungbbang
+mentor : Ph.D Jin
 
 ## Plan
 
-- 불편함과 그 해결책을 정리하는 공간입니다.
+불편함과 그 해결책을 정리하는 공간입니다.
 
-- [] 불편함 (trouble)
-- [] 해결책 (solution)
-- [] 개발 계획 (devPlan)
+- 불편함 (trouble)
+- 해결책 (solution)
+- 개발 계획 (devPlan)
+- Meeting
+  - [ ]220216 Wen 7pm Zoom
 
 ## Submit
 
-- 학교에 최종적으로 제출할 문서들을 저장하는 공간입니다.
+학교에 최종적으로 제출할 문서들을 저장하는 공간입니다.
 
-- [] 계획서
+- [ ] 계획서
+
+## The Minutes Of Meeting
+
+회의록을 정리하는 공간입니다.
+
+- [x] 220103
+- [x] 220106
+- [x] 220110
+- [x] 220113
+- [x] 220128
+- [x] 220203
