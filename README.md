@@ -3,6 +3,7 @@
 2022 Hanbat National Univ Capstone, Computer Engineering Students
 
 team members : MyungAe(leader), 0-ROK, Sungbbang
+
 mentor : Ph.D Jin
 
 ## Plan
@@ -13,7 +14,7 @@ mentor : Ph.D Jin
 - 해결책 (solution)
 - 개발 계획 (devPlan)
 - Meeting
-  - [ ]220216 Wen 7pm Zoom
+  - [ ] 220216 Wen 7pm Zoom
 
 ## Submit
 
