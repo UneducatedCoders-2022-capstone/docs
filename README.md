@@ -14,13 +14,13 @@ mentor : Ph.D Jin
 - 해결책 (solution)
 - 개발 계획 (devPlan)
 - Meeting
-  - [ ] 220216 Wen 7pm Zoom
+  - [x] 220216 Wen 7pm Zoom
 
 ## Submit
 
 학교에 최종적으로 제출할 문서들을 저장하는 공간입니다.
 
-- [ ] 계획서
+- [ ] 캡스톤디자인1 계획서
 
 ## The Minutes Of Meeting
 
@@ -32,3 +32,5 @@ mentor : Ph.D Jin
 - [x] 220113
 - [x] 220128
 - [x] 220203
+- [x] 220222
+- [x] 220224
